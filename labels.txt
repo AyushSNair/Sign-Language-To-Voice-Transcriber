@@ -1,0 +1,21 @@
+0 Hello
+1 Yes
+2 Thankyou
+3 ILoveYou
+4 Awake
+5 Again
+6 Baby
+7 Bad
+8 Brush
+9 Call
+10 Careful
+11 Discuss
+12 Front
+13 Good
+14 Guilty
+15 Like
+16 Love
+17 No
+18 Peace
+19 Pen
+20 See you Later
